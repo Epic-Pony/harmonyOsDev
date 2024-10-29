@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "counter_value_size",
+      "value": "36fp"
+    },
+    {
+      "name": "counter_desc_size",
+      "value": "18fp"
+    },
+    {
+      "name": "app_bar_title_size",
+      "value": "20fp"
+    }
+  ]
+}
